@@ -2,7 +2,7 @@
 This project is an attempt to work through the course material in the following
 book.
 
-| Harrison Kinsley & Daniel Kukieła. Neural Networks from Scratch (NNFS). https://nnfsio
+> Harrison Kinsley & Daniel Kukieła. Neural Networks from Scratch (NNFS). https://nnfs.io
 
 
 
