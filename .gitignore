@@ -1,0 +1,5 @@
+# Ignore the 64MB book
+*.pdf
+
+# Ignore compiled python
+*.pyc
